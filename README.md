@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @i-am-smf
 - 👀 I’m interested in Discord Bot Development Using Python
 - 🌱 I’m currently learning Tkinter(python)
-- 💞️ I’m looking to collaborate on Programmer
+- 💞️ I'm looking to collaborate with a Python programmer
 - 📫 How to reach me Instagram --- @i_am_smf_ , Gmail --- fahadguy8@gmail.com
 
 <!---
